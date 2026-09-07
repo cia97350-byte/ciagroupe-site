@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ciagroupe.com/sitemap.xml
