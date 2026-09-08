@@ -324,3 +324,28 @@ a.card .more{
 }
 .btn-ghost{background:none;border:1px solid var(--ink-soft);color:var(--ink-soft);cursor:pointer}
 .btn-ghost:hover{background:var(--ink-soft);color:var(--paper)}
+
+/* --- Page mentions légales ---------------------------------------------- */
+.legal-page{max-width:62ch}
+.legal-page h2{margin:3rem 0 1rem;font-size:clamp(1.4rem,2.6vw,1.9rem)}
+.legal-page h2:first-child{margin-top:0}
+.legal-page h3{
+  font-family:'WorkSans',system-ui,sans-serif;font-weight:600;font-size:.82rem;
+  letter-spacing:.11em;text-transform:uppercase;color:var(--gold-dark);margin:2.2rem 0 .7rem;
+}
+.legal-page p{margin:0 0 1.1rem}
+.fiche{margin:0 0 1.4rem;display:grid;grid-template-columns:minmax(9rem,13rem) 1fr;
+  gap:0;border-top:1px solid var(--rule)}
+.fiche dt{
+  font-family:'WorkSans',system-ui,sans-serif;font-weight:600;font-size:.72rem;
+  letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft);
+  padding:.95rem 1.2rem .95rem 0;border-bottom:1px solid var(--rule);
+}
+.fiche dd{margin:0;padding:.9rem 0;border-bottom:1px solid var(--rule)}
+@media (max-width:640px){
+  .fiche{grid-template-columns:1fr}
+  .fiche dt{padding-bottom:.15rem;border-bottom:none}
+  .fiche dd{padding-top:0}
+}
+.site-foot .legal a{color:#8FA9B0;text-decoration:underline;text-underline-offset:3px}
+.site-foot .legal a:hover{color:var(--gold)}
