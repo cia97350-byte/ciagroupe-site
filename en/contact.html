@@ -49,7 +49,11 @@
 </div></section>
 
 <section><div class="wrap contact-grid">
-  <form method="POST" action="https://formspree.io/f/VOTRE_IDENTIFIANT">
+  <form id="f" method="POST" enctype="text/plain"
+        action="mailto:direction@ciagroupe.com?subject=Enquiry"
+        data-mail="direction@ciagroupe.com" data-tel="594694998768"
+        data-sujet="Enquiry" data-pied="Message sent from ciagroupe.com"
+        data-champs="[&quot;Full name&quot;, &quot;Organisation&quot;, &quot;Country&quot;, &quot;Email&quot;, &quot;Phone or WhatsApp&quot;, &quot;You are&quot;]">
     <div class="field"><label for="n">Full name</label>
       <input id="n" name="name" required autocomplete="name"></div>
     <div class="field"><label for="o">Organisation</label>
@@ -73,6 +77,19 @@
     </div>
     <button class="btn btn-dark" type="submit" style="cursor:pointer;background:none">Send</button>
   </form>
+  <div class="sent" id="sent" hidden>
+    <h2 class="display">Your message is ready.</h2>
+    <p>It is written; all that is left is to send it. Choose your channel — nothing to retype.</p>
+    <p class="sent-actions">
+      <a class="btn btn-solid" id="lien-mail" href="#">Open in my mail app</a>
+      <a class="btn btn-dark" id="lien-wa" href="#" rel="noopener" target="_blank">Send on WhatsApp</a>
+    </p>
+    <p class="micro" style="margin-bottom:.5rem">The message, should you wish to read it again or paste it elsewhere:</p>
+    <textarea id="recap" readonly rows="9"></textarea>
+    <p><button type="button" class="btn btn-ghost" id="copier">Copy the message</button>
+       <span class="micro" id="copie-ok" hidden>Message copied</span></p>
+    <p class="micro">We reply within two working days.</p>
+  </div>
 
   <div class="coord">
     <h2 class="display">Or directly</h2>
@@ -87,7 +104,8 @@
       falls outside what we do, we will say so at the first exchange and point you elsewhere.
     </div>
   </div>
-</div></section></main>
+</div></section>
+<script src="../assets/js/contact.js" defer></script></main>
 <footer class="site-foot">
   <div class="wrap">
     <div class="foot-in">

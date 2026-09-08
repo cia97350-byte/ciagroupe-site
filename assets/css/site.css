@@ -311,3 +311,16 @@ a.card .more{
   font-family:'WorkSans',system-ui,sans-serif;font-weight:600;font-size:.63rem;
   letter-spacing:.13em;text-transform:uppercase;color:var(--gold-dark);white-space:nowrap;
 }
+
+/* --- Formulaire de contact : panneau de confirmation --------------------- */
+.sent{max-width:34rem}
+.sent h2{margin-bottom:.6rem}
+.sent p{margin:0 0 1rem}
+.sent-actions{display:flex;flex-wrap:wrap;gap:.7rem;margin-bottom:1.6rem}
+.sent textarea{
+  width:100%;min-height:11rem;padding:.9rem 1rem;background:#fff;color:var(--text);
+  border:1px solid var(--rule);border-radius:2px;resize:vertical;
+  font-family:'WorkSans',system-ui,sans-serif;font-size:.86rem;line-height:1.55;
+}
+.btn-ghost{background:none;border:1px solid var(--ink-soft);color:var(--ink-soft);cursor:pointer}
+.btn-ghost:hover{background:var(--ink-soft);color:var(--paper)}
