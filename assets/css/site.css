@@ -254,7 +254,7 @@ a.card .more{
 
 /* ---------- portrait du dirigeant ---------- */
 .portrait-grid{
-  display:grid;grid-template-columns:380px 1fr;gap:clamp(2rem,5vw,4rem);align-items:center;
+  display:grid;grid-template-columns:310px 1fr;gap:clamp(2rem,5vw,4rem);align-items:center;
 }
 .portrait{margin:0;position:relative}
 .portrait img{
@@ -291,6 +291,6 @@ a.card .more{
 
 @media (max-width:900px){
   .portrait-grid{grid-template-columns:1fr}
-  .portrait{max-width:340px}
+  .portrait{max-width:280px}
   .timeline{grid-template-columns:1fr}
 }
