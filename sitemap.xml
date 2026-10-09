@@ -1,15 +1,197 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://ciagroupe.com/</loc></url>
-  <url><loc>https://ciagroupe.com/cabinet.html</loc></url>
-  <url><loc>https://ciagroupe.com/expertises.html</loc></url>
-  <url><loc>https://ciagroupe.com/gateway.html</loc></url>
-  <url><loc>https://ciagroupe.com/contact.html</loc></url>
-  <url><loc>https://ciagroupe.com/mentions-legales.html</loc></url>
-  <url><loc>https://ciagroupe.com/en/</loc></url>
-  <url><loc>https://ciagroupe.com/en/firm.html</loc></url>
-  <url><loc>https://ciagroupe.com/en/expertise.html</loc></url>
-  <url><loc>https://ciagroupe.com/en/gateway.html</loc></url>
-  <url><loc>https://ciagroupe.com/en/contact.html</loc></url>
-  <url><loc>https://ciagroupe.com/en/legal.html</loc></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url><loc>https://ciagroupe.com/</loc><lastmod>2026-10-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ciagroupe.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ciagroupe.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ciagroupe.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://ciagroupe.com/zh/"/>
+  </url>
+  <url><loc>https://ciagroupe.com/collectivites-territoriales.html</loc><lastmod>2026-10-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ciagroupe.com/collectivites-territoriales.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ciagroupe.com/en/public-sector.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ciagroupe.com/pt/setor-publico.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://ciagroupe.com/zh/public-sector.html"/>
+  </url>
+  <url><loc>https://ciagroupe.com/financements-feder-detr.html</loc><lastmod>2026-10-09</lastmod>
+  </url>
+  <url><loc>https://ciagroupe.com/entreprises.html</loc><lastmod>2026-10-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ciagroupe.com/entreprises.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ciagroupe.com/en/companies.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ciagroupe.com/pt/empresas.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://ciagroupe.com/zh/companies.html"/>
+  </url>
+  <url><loc>https://ciagroupe.com/cabinet.html</loc><lastmod>2026-10-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ciagroupe.com/cabinet.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ciagroupe.com/en/firm.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ciagroupe.com/pt/escritorio.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://ciagroupe.com/zh/firm.html"/>
+  </url>
+  <url><loc>https://ciagroupe.com/expertises.html</loc><lastmod>2026-10-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ciagroupe.com/expertises.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ciagroupe.com/en/expertise.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ciagroupe.com/pt/especialidades.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://ciagroupe.com/zh/expertise.html"/>
+  </url>
+  <url><loc>https://ciagroupe.com/gateway.html</loc><lastmod>2026-10-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ciagroupe.com/gateway.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ciagroupe.com/en/gateway.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ciagroupe.com/pt/gateway.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://ciagroupe.com/zh/gateway.html"/>
+  </url>
+  <url><loc>https://ciagroupe.com/contact.html</loc><lastmod>2026-10-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ciagroupe.com/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ciagroupe.com/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ciagroupe.com/pt/contato.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://ciagroupe.com/zh/contact.html"/>
+  </url>
+  <url><loc>https://ciagroupe.com/mentions-legales.html</loc><lastmod>2026-10-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ciagroupe.com/mentions-legales.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ciagroupe.com/en/legal.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ciagroupe.com/pt/aviso-legal.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://ciagroupe.com/zh/legal.html"/>
+  </url>
+  <url><loc>https://ciagroupe.com/en/</loc><lastmod>2026-10-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ciagroupe.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ciagroupe.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ciagroupe.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://ciagroupe.com/zh/"/>
+  </url>
+  <url><loc>https://ciagroupe.com/en/public-sector.html</loc><lastmod>2026-10-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ciagroupe.com/collectivites-territoriales.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ciagroupe.com/en/public-sector.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ciagroupe.com/pt/setor-publico.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://ciagroupe.com/zh/public-sector.html"/>
+  </url>
+  <url><loc>https://ciagroupe.com/en/companies.html</loc><lastmod>2026-10-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ciagroupe.com/entreprises.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ciagroupe.com/en/companies.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ciagroupe.com/pt/empresas.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://ciagroupe.com/zh/companies.html"/>
+  </url>
+  <url><loc>https://ciagroupe.com/en/firm.html</loc><lastmod>2026-10-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ciagroupe.com/cabinet.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ciagroupe.com/en/firm.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ciagroupe.com/pt/escritorio.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://ciagroupe.com/zh/firm.html"/>
+  </url>
+  <url><loc>https://ciagroupe.com/en/expertise.html</loc><lastmod>2026-10-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ciagroupe.com/expertises.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ciagroupe.com/en/expertise.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ciagroupe.com/pt/especialidades.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://ciagroupe.com/zh/expertise.html"/>
+  </url>
+  <url><loc>https://ciagroupe.com/en/gateway.html</loc><lastmod>2026-10-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ciagroupe.com/gateway.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ciagroupe.com/en/gateway.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ciagroupe.com/pt/gateway.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://ciagroupe.com/zh/gateway.html"/>
+  </url>
+  <url><loc>https://ciagroupe.com/en/contact.html</loc><lastmod>2026-10-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ciagroupe.com/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ciagroupe.com/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ciagroupe.com/pt/contato.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://ciagroupe.com/zh/contact.html"/>
+  </url>
+  <url><loc>https://ciagroupe.com/en/legal.html</loc><lastmod>2026-10-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ciagroupe.com/mentions-legales.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ciagroupe.com/en/legal.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ciagroupe.com/pt/aviso-legal.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://ciagroupe.com/zh/legal.html"/>
+  </url>
+  <url><loc>https://ciagroupe.com/pt/</loc><lastmod>2026-10-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ciagroupe.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ciagroupe.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ciagroupe.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://ciagroupe.com/zh/"/>
+  </url>
+  <url><loc>https://ciagroupe.com/pt/setor-publico.html</loc><lastmod>2026-10-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ciagroupe.com/collectivites-territoriales.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ciagroupe.com/en/public-sector.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ciagroupe.com/pt/setor-publico.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://ciagroupe.com/zh/public-sector.html"/>
+  </url>
+  <url><loc>https://ciagroupe.com/pt/empresas.html</loc><lastmod>2026-10-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ciagroupe.com/entreprises.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ciagroupe.com/en/companies.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ciagroupe.com/pt/empresas.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://ciagroupe.com/zh/companies.html"/>
+  </url>
+  <url><loc>https://ciagroupe.com/pt/escritorio.html</loc><lastmod>2026-10-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ciagroupe.com/cabinet.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ciagroupe.com/en/firm.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ciagroupe.com/pt/escritorio.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://ciagroupe.com/zh/firm.html"/>
+  </url>
+  <url><loc>https://ciagroupe.com/pt/especialidades.html</loc><lastmod>2026-10-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ciagroupe.com/expertises.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ciagroupe.com/en/expertise.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ciagroupe.com/pt/especialidades.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://ciagroupe.com/zh/expertise.html"/>
+  </url>
+  <url><loc>https://ciagroupe.com/pt/gateway.html</loc><lastmod>2026-10-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ciagroupe.com/gateway.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ciagroupe.com/en/gateway.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ciagroupe.com/pt/gateway.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://ciagroupe.com/zh/gateway.html"/>
+  </url>
+  <url><loc>https://ciagroupe.com/pt/contato.html</loc><lastmod>2026-10-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ciagroupe.com/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ciagroupe.com/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ciagroupe.com/pt/contato.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://ciagroupe.com/zh/contact.html"/>
+  </url>
+  <url><loc>https://ciagroupe.com/pt/aviso-legal.html</loc><lastmod>2026-10-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ciagroupe.com/mentions-legales.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ciagroupe.com/en/legal.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ciagroupe.com/pt/aviso-legal.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://ciagroupe.com/zh/legal.html"/>
+  </url>
+  <url><loc>https://ciagroupe.com/zh/</loc><lastmod>2026-10-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ciagroupe.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ciagroupe.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ciagroupe.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://ciagroupe.com/zh/"/>
+  </url>
+  <url><loc>https://ciagroupe.com/zh/public-sector.html</loc><lastmod>2026-10-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ciagroupe.com/collectivites-territoriales.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ciagroupe.com/en/public-sector.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ciagroupe.com/pt/setor-publico.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://ciagroupe.com/zh/public-sector.html"/>
+  </url>
+  <url><loc>https://ciagroupe.com/zh/companies.html</loc><lastmod>2026-10-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ciagroupe.com/entreprises.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ciagroupe.com/en/companies.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ciagroupe.com/pt/empresas.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://ciagroupe.com/zh/companies.html"/>
+  </url>
+  <url><loc>https://ciagroupe.com/zh/firm.html</loc><lastmod>2026-10-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ciagroupe.com/cabinet.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ciagroupe.com/en/firm.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ciagroupe.com/pt/escritorio.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://ciagroupe.com/zh/firm.html"/>
+  </url>
+  <url><loc>https://ciagroupe.com/zh/expertise.html</loc><lastmod>2026-10-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ciagroupe.com/expertises.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ciagroupe.com/en/expertise.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ciagroupe.com/pt/especialidades.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://ciagroupe.com/zh/expertise.html"/>
+  </url>
+  <url><loc>https://ciagroupe.com/zh/gateway.html</loc><lastmod>2026-10-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ciagroupe.com/gateway.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ciagroupe.com/en/gateway.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ciagroupe.com/pt/gateway.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://ciagroupe.com/zh/gateway.html"/>
+  </url>
+  <url><loc>https://ciagroupe.com/zh/contact.html</loc><lastmod>2026-10-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ciagroupe.com/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ciagroupe.com/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ciagroupe.com/pt/contato.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://ciagroupe.com/zh/contact.html"/>
+  </url>
+  <url><loc>https://ciagroupe.com/zh/legal.html</loc><lastmod>2026-10-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ciagroupe.com/mentions-legales.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ciagroupe.com/en/legal.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ciagroupe.com/pt/aviso-legal.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://ciagroupe.com/zh/legal.html"/>
+  </url>
 </urlset>

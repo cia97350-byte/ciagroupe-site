@@ -1,4 +1,4 @@
-/* CIA — formulaire de contact.
+/* CIA : formulaire de contact.
    Aucun service tiers : le message est composé côté navigateur puis remis à la
    messagerie du visiteur, ou à WhatsApp, sur un choix explicite de sa part.
    Rien ne transite par le serveur d'un éditeur, rien n'est stocké, aucun compte
@@ -43,7 +43,7 @@
       if (paires[i][1]) lignes.push(paires[i][0] + " : " + paires[i][1]);
     }
     var message = valeur(["message"]);
-    return lignes.join("\n") + "\n\n" + message + "\n\n— " + PIED;
+    return lignes.join("\n") + "\n\n" + message + "\n\n" + PIED;
   }
 
   f.addEventListener("submit", function (e) {
@@ -52,7 +52,7 @@
 
     var corps = composer();
     var org = valeur(["organisation"]);
-    var sujet = SUJET + (org ? " — " + org : "");
+    var sujet = SUJET + (org ? " : " + org : "");
 
     document.getElementById("recap").value = corps;
 
